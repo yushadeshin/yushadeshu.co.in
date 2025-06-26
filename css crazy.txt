@@ -1,0 +1,52 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background: #fefefe;
+    color: #333;
+    text-align: center;
+}
+
+header {
+    background: #f7c948;
+    padding: 60px 20px;
+}
+
+.logo {
+    width: 100px;
+    height: auto;
+}
+
+.cta-button {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 12px 24px;
+    background: #333;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+section {
+    padding: 40px 20px;
+}
+
+.tokenomics ul {
+    list-style: none;
+    padding: 0;
+}
+
+.tokenomics li {
+    margin: 10px 0;
+}
+
+footer {
+    background: #222;
+    color: #fff;
+    padding: 20px;
+}
+
+footer a {
+    color: #f7c948;
+    text-decoration: none;
+}

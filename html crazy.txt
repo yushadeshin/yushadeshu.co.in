@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>WoofCoin 🐶 | The Future of Fun Finance</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <img src="logo.png" alt="WoofCoin Logo" class="logo">
+        <h1>WoofCoin 🐶</h1>
+        <p>The meme coin that barks louder than it bites!</p>
+        <a href="#buy" class="cta-button">Buy Now</a>
+    </header>
+
+    <section class="about">
+        <h2>About WoofCoin</h2>
+        <p>Born from the meme community, WoofCoin is more than just a token—it's a movement. Fully decentralized, rug-proof, and backed by good vibes and doggos.</p>
+    </section>
+
+    <section class="tokenomics">
+        <h2>Tokenomics</h2>
+        <ul>
+            <li>🔹 Total Supply: 1,000,000,000</li>
+            <li>🔹 50% Burned</li>
+            <li>🔹 30% Liquidity Pool</li>
+            <li>🔹 10% Marketing</li>
+            <li>🔹 10% Community Rewards</li>
+        </ul>
+    </section>
+
+    <section class="how-to-buy" id="buy">
+        <h2>How to Buy</h2>
+        <ol>
+            <li>Download MetaMask or Trust Wallet</li>
+            <li>Buy some BNB or ETH</li>
+            <li>Go to PancakeSwap / Uniswap</li>
+            <li>Paste our contract: <code>0xYourContractAddressHere</code></li>
+            <li>Swap and HODL!</li>
+        </ol>
+    </section>
+
+    <footer>
+        <p>© 2025 WoofCoin. No rug pulls, just memes. 🚀</p>
+        <div class="socials">
+            <a href="#">🐦 Twitter</a> |
+            <a href="#">🗨 Telegram</a> |
+            <a href="#">🌐 Etherscan</a>
+        </div>
+    </footer>
+</body>
+</html>
